@@ -1,0 +1,2 @@
+paste1 1st line        paste1 2nd line        paste1 3rd line        paste1 4th line
+paste2 1st line        paste2 2nd line        paste2 3rd line        paste2 4th line
