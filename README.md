@@ -11,4 +11,5 @@ Developing and testing dependencies have been specified in pom.xml file. Please 
 ## Shell features & Application functionalities
 
 • Shell: calling applications, quoting, IO-redirection, globbing, pipe operator, command substitution, semicolon operator
+
 • Applications: echo, ls, wc, cat, grep, exit, tee, cd, split, mv, uniq, rm, paste, cp
